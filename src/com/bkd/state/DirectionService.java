@@ -8,7 +8,7 @@ public class DirectionService {
     }
 
     public Object getDirection() {
-       return  travelMode.getDirection();
+       return travelMode.getDirection();
     }
 
     public TravelMode getTravelMode() {
